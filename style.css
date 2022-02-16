@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-box {
+  width: 70%;
+  margin: auto;
+}
+
+h3 {
+  margin-top: 50px;
+}
+
+h5 {
+  margin-top: 25px;
+}
+
+li {
+  margin-top: 15px;
+  font-size: 10px;
+  margin-left: 15px;
+}
+
+ol {
+  margin-left: 15px;
+  width: 450px;
+}
